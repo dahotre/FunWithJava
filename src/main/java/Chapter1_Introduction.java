@@ -5,7 +5,7 @@ import java.util.List;
  * User: adahotre
  * Date: 8/14/13
  */
-public class Chapter1 {
+public class Chapter1_Introduction {
   public static void main(String[] args) {
     final List<Integer> prices = Arrays.asList(10, 30, 17, 20, 15, 18, 45, 12);
 
